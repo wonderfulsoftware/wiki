@@ -1,3 +1,3 @@
 Hello world!
 
-Contentsgarten is now working!
+Contentsgarten is now working! :)
