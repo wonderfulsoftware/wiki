@@ -2,4 +2,4 @@
 **Welcome to wonderful.software wiki.**
 :::
 
-Contentsgarten is now working! :)
+[Contentsgarten](https://github.com/creatorsgarten/contentsgarten) is now working! :)
