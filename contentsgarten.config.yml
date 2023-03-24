@@ -1,0 +1,6 @@
+policies:
+  - name: Allow dtinth to edit the wiki
+    permission: edit
+    userId: 193136
+  - name: Allow anyone edit page contents
+    permission: editContent
