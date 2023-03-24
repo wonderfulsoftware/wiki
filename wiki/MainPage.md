@@ -1,5 +1,5 @@
 :::lead
-**Welcome.**
+**Welcome!**
 :::
 
 Contentsgarten is now working! :)
