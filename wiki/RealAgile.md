@@ -6,6 +6,6 @@
 >
 > —[Emmanuel Maggiori (2023). I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 
-# See also
+## See also
 
 - [[NoBacklog]]
